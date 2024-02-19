@@ -29,7 +29,7 @@
                     <i class="fa fa-bolt fa-2x"></i>
                 </div>
                 <!--Icon Block Description-->
-                <div class="icon-block-description">
+                <div class="icon-block-description"  style="background:url('../images/beeNet.png')"  >
                     <h4>Характеристика на майките</h4>
                     <p>При добри грижи, ще можете да зебележите, че нашите пчелни майки се отличават с бърза реакция при
                         наличие или съответно отсъствие на паша. При наличие на паша е в състояние да развие силни и
@@ -85,7 +85,7 @@
 
 
             <!--Icon Block-->
-            <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+            <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s" style="background:url('../images/beeNet.png')" >
                 <!--Icon-->
                 <div class="icon">
                     <i class="fa fa-tablet fa-2x"></i>

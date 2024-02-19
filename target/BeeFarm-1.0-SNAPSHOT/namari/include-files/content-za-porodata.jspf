@@ -5,7 +5,7 @@
     <div class="row clearfix">
 
         <div class="col-3">
-            <div class="section-heading">
+            <div class="section-heading"  style="background:url('../images/beeNet.png')"  >
                 <h3>ВАЖНО ДА ЗНАЕТЕ</h3>
                 <h2 class="section-title">За породата</h2>
                 <p class="section-subtitle">
@@ -15,6 +15,7 @@
                     че пчеларите получават пчели, които са здрави, продуктивни и добре пригодени за техните специфични
                     нужди.
                 </p>
+                <a href="#pricing" class="button">ПОРЪЧКА</a>
             </div>
 
         </div>
@@ -99,7 +100,7 @@
                 </div>
             </div>
 
-                <a href="#pricing" class="button">ПОРЪЧКА</a>
+
         </div>
     </div>
 

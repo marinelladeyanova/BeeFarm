@@ -21,7 +21,22 @@
 
         </div>
 
+        <div class="col-3">
+            <a href="images/logo-7.jpg" data-featherlight="image"><img src="images/logo-7.jpg"/></a>
+        </div>
 
+        <div class="col-3">
+            <p class="section-subtitle">Деян Петков Петков</p>
+            <p class="section-subtitle">+359 87 852 8229</p>
+            <p class="section-subtitle">гр. Кърджали</p>
+
+            <p class="section-subtitle"></p>
+            <p class="section-subtitle" >Послевайте ни във Facebook:
+                <a href="https://www.facebook.com/pchelnimajki">
+                    <img width="20" height="20" src="images/facebook.png" alt="facebook"/>
+                </a>
+            </p>
+        </div>
 
     </div>
 </footer>

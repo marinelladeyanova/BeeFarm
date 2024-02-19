@@ -4,7 +4,7 @@
 
     <div class="row clearfix">
 
-        <div class="col-3">
+        <div class="col-3" style="background:url('../images/beeNet.png')" >
             <div class="section-heading">
                 <h3>Как започна всичко</h3>
                 <h2 class="section-title">Моята история</h2>
@@ -95,7 +95,7 @@
 
             <%-- 3 --%>
             <!--Icon Block-->
-            <div class="icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+            <div class="icon-block icon-top wow fadeInUp" data-wow-delay="0.5s" style="background:url('../images/beeNet.png')" >
               <%--  <!--Icon-->
                 <div class="icon">
                     <i class="fa fa-html5 fa-2x"></i>

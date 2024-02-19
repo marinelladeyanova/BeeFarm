@@ -6,10 +6,10 @@
 
 
     <a href="../images/gallery-images/19.jpg" data-featherlight="image" class="col-3 wow fadeIn"
-       data-wow-delay="0.7s"><img src="../images/gallery-images/19.jpg" alt="Landing Page"/></a>
+       data-wow-delay="0.6s"><img src="../images/gallery-images/19.jpg" alt="Landing Page"/></a>
 
 
     <a href="../images/gallery-images/21.jpg" data-featherlight="image" class="col-3 wow fadeIn"
-       data-wow-delay="0.9s"><img src="../images/gallery-images/21.jpg" alt="Landing Page"/></a>
+       data-wow-delay="0.7s"><img src="../images/gallery-images/21.jpg" alt="Landing Page"/></a>
 
 </aside>

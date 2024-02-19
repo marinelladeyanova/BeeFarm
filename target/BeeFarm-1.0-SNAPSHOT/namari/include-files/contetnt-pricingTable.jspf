@@ -1,7 +1,7 @@
 <%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
 
 <section id="pricing" class="secondary-color text-center scrollto clearfix ">
-    <div class="row clearfix">
+    <div class="row clearfix"  >
 
         <div class="section-heading">
             <h3>Заявка</h3>
@@ -14,7 +14,7 @@
 
         <!--Pricing Block-->
         <div class="pricing-block  wow fadeInUp" data-wow-delay="0.4s">
-            <div class="pricing-block-content">
+            <div class="pricing-block-content"  >
                 <h3>Племенни пчелни майки</h3>
                 <p class="pricing-sub">Заявка</p>
 
