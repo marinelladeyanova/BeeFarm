@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: mpetkova
+Build-Jdk: Oracle OpenJDK version 1.8.0_202
+Implementation-Title: dbProject
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: groupId
+Main-Class: ${start-class}
+

@@ -1,0 +1,107 @@
+<%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+
+<section id="about" class="introduction scrollto">
+
+    <div class="row clearfix">
+
+        <div class="col-3">
+            <div class="section-heading">
+                <h3>ВАЖНО ДА ЗНАЕТЕ</h3>
+                <h2 class="section-title">За породата</h2>
+                <p class="section-subtitle">
+                    Чрез отглеждането и предоставянето на висококачествени пчели-майки Apis mellifera, ние допринасяме
+                    за запазването и развитието на пчеларските практики в световен мащаб. Нашият ангажимент към високи
+                    постижения гарантира,
+                    че пчеларите получават пчели, които са здрави, продуктивни и добре пригодени за техните специфични
+                    нужди.
+                </p>
+            </div>
+
+        </div>
+
+        <div class="col-2-3">
+
+            <%-- 3 --%>
+            <!--Icon Block-->
+            <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
+                <!--Icon-->
+                <div class="icon">
+                    <i class="fa fa-html5 fa-2x"></i>
+                </div>
+                <!--Icon Block Description-->
+                <div class="icon-block-description">
+                    <h4>Порода</h4>
+                    <p> Породата е най-древната останала на земята, която се запазила на балканския полуостров
+                        и полагаме усилия да я запазим в чистопородна линия.
+                        Важно е да добавим, че пчелина, където се извършва развъдната дейност, има много добра изолация
+                        и наблизо няма други пчелини. Това дава предпоставка за запазване чистотата на породната
+                        линия.</p>
+                </div>
+            </div>
+
+            <!--Icon Block-->
+            <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+                <!--Icon-->
+                <div class="icon">
+                    <i class="fa fa-tablet fa-2x"></i>
+                </div>
+                <!--Icon Block Description-->
+                <div class="icon-block-description">
+                    <h4>Предимства на породата</h4>
+                    <p>Основната причина за отглеждането на пчели Apis mellifera е тяхното изключително производство
+                        на мед.
+                        Тези пчели събират нектар от цъфтящи растения, който превръщат в мед чрез процес на
+                        регургитация и изпаряване.
+                        Медът, който произвеждат, е високо ценен заради вкуса, хранителните си качества и лечебните
+                        си свойства.
+                    </p>
+                </div>
+            </div>
+
+
+            <!--Icon Block-->
+            <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+                <!--Icon-->
+                <div class="icon">
+                    <i class="fa fa-tablet fa-2x"></i>
+                </div>
+                <!--Icon Block Description-->
+                <div class="icon-block-description">
+                    <h4>Естествено местообитание на породата</h4>
+                    <p>Естествено местообитание на пчелите от породата Apis mellifera са Европа, Африка и Близкия
+                        изток.
+                        С течение на времето те са въведени в различни части на света, включително Северна и Южна
+                        Америка, Австралия и Азия.
+                        Тези адаптивни пчели процъфтяват в различни климатични условия, което ги прави подходящи за
+                        пчеларство в широк диапазон от региони.
+
+                    </p>
+                </div>
+            </div>
+
+
+            <%-- 3 --%>
+            <!--Icon Block-->
+            <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
+                <!--Icon-->
+                <div class="icon">
+                    <i class="fa fa-html5 fa-2x"></i>
+                </div>
+                <!--Icon Block Description-->
+                <div class="icon-block-description">
+                    <h4>Нашият принос</h4>
+                    <p>Породата е най-древната останала на земята, която се запазила на балканския полуостров
+                        и полагаме усилия да я запазим в чистопородна линия.
+                        Важно е да добавим, че пчелина, където се извършва развъдната дейност, има много добра
+                        изолация
+                        и наблизо няма други пчелини. Това дава предпоставка за запазване чистотата на породната
+                        линия.</p>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+</section>
