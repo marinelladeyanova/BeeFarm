@@ -4,6 +4,8 @@
 <!DOCTYPE html>
 <html>
 <%@ include file="include-files/head.jspf" %>
+
+
 <body>
 <c:redirect url="/"/>
 
@@ -26,39 +28,8 @@
 
 <div id="wrapper">
 
-    <header id="banner" class="scrollto clearfix" data-enllax-ratio=".5">
-        <div id="header" class="nav-collapse">
-            <div class="row clearfix">
-                <div class="col-1">
+    <%@ include file="include-files/header.jspf" %>
 
-                    <!--Logo-->
-                    <div id="logo">
-
-                        <!--Logo that is shown on the banner-->
-                        <img src="images/logo-7.jpg" id="banner-logo" alt="Landing Page"/>
-                        <!--End of Banner Logo-->
-
-                        <!--The Logo that is shown on the sticky Navigation Bar-->
-                        <img src="images/logo-7.jpg" id="navigation-logo" alt="Landing Page"/>
-                        <!--End of Navigation Logo-->
-
-                    </div>
-                    <!--End of Logo-->
-                    <%@ include file="include-files/socialMediaIcons.jspf" %>
-
-                    <!--Main Navigation-->
-                    <%@ include file="include-files/mainMenuNavigation.jspf" %>
-                    <!--End of Main Navigation-->
-
-                    <div id="nav-trigger"><span></span></div>
-                    <nav id="nav-mobile"></nav>
-                </div>
-            </div>
-        </div><!--End of Header-->
-
-        <!--Banner Content-->
-        <%@ include file="include-files/banner.jsp"%><!--End of Row-->
-    </header>
 
     <!--Main Content Area-->
     <main id="content">
@@ -69,21 +40,18 @@
         <%@ include file="include-files/gallery1.jspf" %>
         <%@ include file="include-files/content-za-men.jspf" %>
 
-
 <%--
         <%@ include file="include-files/content-selection.jspf" %>
 --%>
 <%--
         <%@ include file="include-files/content-ourClients.jspf" %>
 --%>
-
         <%@ include file="include-files/contetnt-pricingTable.jspf" %>
 
         <%@ include file="include-files/contacts.jspf" %>
 
     </main>
     <!--End Main Content Area-->
-
 
     <!--Footer-->
     <%@ include file="include-files/footer.jspf" %>

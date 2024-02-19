@@ -72,7 +72,7 @@
 
 
         <!--Content of the Right Side-->
-        <div class="col-3" style="background:url('../images/dancer.jpg')">
+        <div class="col-3" <%--style="background:url('../images/dancer.jpg')"--%>>
 
             <div class="section-heading"  >
                 <h3>Как започна всичко</h3>
