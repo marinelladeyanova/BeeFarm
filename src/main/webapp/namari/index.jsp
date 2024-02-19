@@ -1,5 +1,4 @@
-
-<%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8"%>
+<%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
 
 
 <!DOCTYPE html>
@@ -65,12 +64,22 @@
     <main id="content">
 
         <%@ include file="include-files/content-za-nashite-pcheli.jspf" %>
-        <%@ include file="include-files/content-za-porodata.jspf" %>
         <%@ include file="include-files/gallery.jspf" %>
+        <%@ include file="include-files/content-za-porodata.jspf" %>
+        <%@ include file="include-files/gallery1.jspf" %>
+        <%@ include file="include-files/content-za-men.jspf" %>
+
+
+<%--
         <%@ include file="include-files/content-selection.jspf" %>
-        <%@ include file="include-files/content-feedback.jspf" %>
+--%>
+<%--
         <%@ include file="include-files/content-ourClients.jspf" %>
+--%>
+
         <%@ include file="include-files/contetnt-pricingTable.jspf" %>
+
+        <%@ include file="include-files/contacts.jspf" %>
 
     </main>
     <!--End Main Content Area-->

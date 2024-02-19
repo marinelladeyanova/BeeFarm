@@ -935,8 +935,10 @@ blockquote {
 }
 
 .testimonial img {
-    max-height: 120px;
+    max-height: 80px;
+    /*
     border-radius: 250em;
+    */
 }
 
 .testimonial footer {
@@ -975,6 +977,9 @@ blockquote {
 /* --------- 6.4 Gallery ---------- */
 
 #gallery img {
+    width: 450px;
+    height: 200px;
+    object-fit: cover;
     max-height: 300px;
 }
 

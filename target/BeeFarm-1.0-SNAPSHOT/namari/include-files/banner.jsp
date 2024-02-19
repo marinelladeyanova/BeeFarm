@@ -10,7 +10,7 @@
         </div>
 
         <!--Call to Action Button -->
-        <a href="#" class="button">ПОРЪЧКА</a>
+        <a href="#pricing" class="button">ПОРЪЧКА</a>
         <!--End Call to Action-->
 
     </div>

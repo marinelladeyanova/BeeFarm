@@ -1,25 +1,28 @@
+<%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+
+
 <nav id="nav-main">
     <ul>
         <li>
-            <a href="#banner">Home</a>
+            <a href="#banner">Начало</a>
         </li>
         <li>
-            <a href="#about">About</a>
+            <a href="#about-bees">За пчелите</a>
         </li>
         <li>
-            <a href="#gallery">Gallery</a>
+            <a href="#about-breed">За породата</a>
         </li>
         <li>
-            <a href="#services">Services</a>
+            <a href="#about-me">За мен</a>
         </li>
+
+
         <li>
-            <a href="#testimonials">Testimonials</a>
+            <a href="#pricing">Цена</a>
         </li>
+
         <li>
-            <a href="#clients">Clients</a>
-        </li>
-        <li>
-            <a href="#pricing">Pricing</a>
+            <a href="#contacts">Контакти</a>
         </li>
     </ul>
 </nav>

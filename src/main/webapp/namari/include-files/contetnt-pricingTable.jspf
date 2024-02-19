@@ -1,73 +1,85 @@
+<%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+
 <section id="pricing" class="secondary-color text-center scrollto clearfix ">
     <div class="row clearfix">
 
         <div class="section-heading">
-            <h3>YOUR CHOICE</h3>
-            <h2 class="section-title">We have the right package for you</h2>
+            <h3>Заявка</h3>
+            <h2 class="section-title">За поръчка и запитвания се свържете с нас на телефон </h2>
+            <h2 class="section-title">+359 87 852 8229</h2>
+
+
         </div>
 
-        <!--Pricing Block-->
-        <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.4s">
-            <div class="pricing-block-content">
-                <h3>Personal</h3>
-                <p class="pricing-sub">The standard version</p>
-                <div class="pricing">
-                    <div class="price"><span>$</span>19</div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                </div>
-                <ul>
-                    <li>5 Downloads</li>
-                    <li>2 Extensions</li>
-                    <li>Tutorials</li>
-                    <li>Forum Support</li>
-                    <li>1 year free updates</li>
-                </ul>
-                <a href="#" class="button">BUY TODAY</a>
-            </div>
-        </div>
-        <!--End Pricing Block-->
 
         <!--Pricing Block-->
-        <div class="pricing-block featured col-3 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="pricing-block  wow fadeInUp" data-wow-delay="0.4s">
             <div class="pricing-block-content">
-                <h3>Student</h3>
-                <p class="pricing-sub">Most popular choice</p>
-                <div class="pricing">
-                    <div class="price"><span>$</span>29</div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                </div>
-                <ul>
-                    <li>15 Downloads</li>
-                    <li>5 Extensions</li>
-                    <li>Tutorials with Files</li>
-                    <li>Forum Support</li>
-                    <li>2 years free updates</li>
-                </ul>
-                <a href="#" class="button">BUY TODAY</a>
-            </div>
-        </div>
-        <!--End Pricing Block-->
+                <h3>Племенни пчелни майки</h3>
+                <p class="pricing-sub">Заявка</p>
 
-        <!--Pricing Block-->
-        <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.8s">
-            <div class="pricing-block-content">
-                <h3>Business</h3>
-                <p class="pricing-sub">For the whole team</p>
+                <p>Кат. номер: ПП-001 </p>
+
+                <p> Лицензиран производител на племенни пчелни майки и отводки. Отговаря на изискванията и работи по
+                    всички програми финансирани от ДФ "Земеделие".
+                </p>
+                <p>Регистриран животновъден обект 6621-0045. Становище №
+                    РЗС-02-59-1/26.01.2024г. </p>
+
+                <p> Регистриран в ОД ,,Земеделие" гр.Кърджали под номер 3 в регистъра за пчелините за производство
+                    на племенни пчелни майки и изкуствени рояци.
+                </p>
+
                 <div class="pricing">
-                    <div class="price"><span>$</span>49</div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    <div class="price">35 лв*</div>
+                    <div> * От началото до края на месец април можете да поръчате пчелни майки на промоционална <b>цена от
+                        30лв</b> (само при предварителна заявка).
+                    </div>
+                    <div>
+                        Изпращането им ще бъде насрочено на удобна за вас дата.
+                    </div>
+
                 </div>
                 <ul>
-                    <li>Unlimited Downloads</li>
-                    <li>Unlimited Extensions</li>
-                    <li>HD Video Tutorials</li>
-                    <li>Chat Support</li>
-                    <li>Lifetime free updates</li>
+
+                    <li>Майките са порода Апис мелифера Родопика</li>
+                    <li>Отличават се с кроткост, плодовитост, нежелание за роене и са устойчиви на заболявания</li>
+                    <li>При преглед пчелите спокойно се движат по питите, което често позволява на пчеларя да работи без
+                        предпазни средства и пушалка
+                    </li>
+                    <li>Друга характерна особеност на българската пчела е нейната бърза реакция на наличието или
+                        отсъствието на паша. При добри грижи и наличието на паша тя е в състояние да развива силни
+                        семейства и е високопродуктивна, а при отсъствие на паша - икономично изразходва хранителните
+                        запаси и ограничава майките
+                    </li>
+                    <li>За изпращане се използва пластмасова транспортна клетка за пчелни майки.</li>
                 </ul>
-                <a href="#" class="button">BUY TODAY</a>
+                <a href="#pricing" class="button">ПОРЪЧКА</a>
             </div>
         </div>
-        <!--End Pricing Block-->
+
+        <%--
+               <!--Pricing Block-->
+                <div class="pricing-block featured col-3 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="pricing-block-content">
+                        <h3>Student</h3>
+                        <p class="pricing-sub">Most popular choice</p>
+                        <div class="pricing">
+                            <div class="price"><span>$</span>29</div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                        </div>
+                        <ul>
+                            <li>15 Downloads</li>
+                            <li>5 Extensions</li>
+                            <li>Tutorials with Files</li>
+                            <li>Forum Support</li>
+                            <li>2 years free updates</li>
+                        </ul>
+                        <a href="#" class="button">BUY TODAY</a>
+                    </div>
+                </div>
+                <!--End Pricing Block-->
+        --%>
 
     </div>
 </section>
