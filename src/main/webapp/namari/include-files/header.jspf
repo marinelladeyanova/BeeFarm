@@ -18,18 +18,11 @@
 
                 </div>
                 <!--End of Logo-->
-                <aside>
 
+                <aside>
                     <!--Social Icons in Header-->
                     <ul class="social-icons">
-
-                        <li>+359 87 852 8229
-                        </li>
-                        <li>
-                            <a target="_blank" title="Facebook" href="https://www.facebook.com/username">
-                                <i class="fa fa-facebook fa-1x"></i><span>Facebook</span>
-                            </a>
-                        </li>
+                        <li>+359 87 852 8229</li>
                         <li>
                             <a href="https://www.facebook.com/pchelnimajki">
                                 <img width="23" height="23" src="../images/facebook.png"/></a>
